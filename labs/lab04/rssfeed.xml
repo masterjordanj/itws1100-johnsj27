@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+	<title>Jordan Johnson's RSS Feed</title>
+	<description>Tech and IT Articles</description>
+	<link>https://arstechnica.com/information-technology/feed/</link>
+	
+	<item>
+		<title>San Francisco rolls out AI-powered cameras to combat crime</title>
+		<description>Tech expert Kurt “CyberGuy&quot; Knutsson discusses San Francisco deploying three advanced mobile surveillance cameras to deter crime in high-risk areas.</description>	
+		<link>https://www.foxnews.com/tech/san-francisco-rolls-out-ai-powered-cameras-combat-crime</link>
+		<guid isPermaLink="true">https://www.foxnews.com/tech/san-francisco-rolls-out-ai-powered-cameras-combat-crime</guid>
+		<pubDate>Mon, 30 Sep 2024 06:00:30 -0400</pubDate>
+	</item>
+
+	<item>
+		<title>Cruise ship surgery that slices giants for mega profits</title>
+		<description>A whopping 30 million people will have taken cruises in 2024, and some ships being built to keep up with this demand cost as much as $2 billion.</description>
+		<link>https://www.foxnews.com/tech/cruise-ship-surgery-slices-giants-mega-profits</link>
+		<guid isPermaLink="true">https://www.foxnews.com/tech/cruise-ship-surgery-slices-giants-mega-profits</guid>
+		<pubDate>Sun, 29 Sep 2024 06:00:12 -0400</pubDate>
+	</item>
+
+	<item>
+		<title>Y Combinator is being criticized after it backed an AI startup that admits it basically cloned another AI startup</title>
+		<description>A Y Combinator startup named PearAI launched with a tweet thread and YouTube video on Saturday and caused an immediate backlash.</description>
+		<link>https://techcrunch.com/2024/09/30/y-combinator-is-being-criticized-after-it-backed-an-ai-startup-that-admits-it-basically-cloned-another-ai-startup/</link>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2888912</guid>
+		<pubDate>Tue, 01 Oct 2024 00:13:50 +0000</pubDate>
+	</item>
+ 
+	<item>
+		<title>The VC buying up prized real estate in SF says not to &#8216;listen to agitators&#8217;</title>
+		<description>VC Neil Mehta, the Greenoaks Capital co-founder tied to a growing number of building purchases across several blocks of San Francisco’s once-glittering Fillmore Street, defended himself on Monday via an op-ed in The San Francisco Standard, saying the moves are solely about revitalizing a “city that has given me more than I could ever give.</description>
+		<link>https://techcrunch.com/2024/09/30/the-vc-buying-up-prized-real-estate-in-sf-says-not-to-listen-to-agitators/</link>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2888745</guid>
+		<pubDate>Mon, 30 Sep 2024 20:29:50 +0000</pubDate>
+	</item>
+
+	<item>
+		<title>Cybertruck Finally Gets Full Self-Driving (Supervised)</title>
+		<description>Some owners of Tesla’s electric pickup truck paid for the feature when they purchased it last fall—and now it’s starting to kick in.</description>
+		<link>https://www.wired.com/story/cybertruck-finally-gets-full-self-driving-supervised/</link>
+		<guid isPermaLink="false">66facbc73c0096fa3b393736</guid>
+		<pubDate>Mon, 30 Sep 2024 18:55:00 +0000</pubDate>
+	</item>
+
+</channel>
+</rss>
+
