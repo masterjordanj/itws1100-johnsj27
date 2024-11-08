@@ -63,6 +63,16 @@ footer {
     padding-left: 20%;
 }
 
+#dynamic {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    text-align: center
+
+}
+
+#dynamic li {
+    list-style: none;
+}
 
 
 
