@@ -6,7 +6,7 @@ $(document).ready(function() {
         success: function(responseData, status){
          var output = "<ul>";  
          $.each(responseData.menuItem, function(i, menuItem) {
-           output += '<li><a href="' + menuItem.link + '" target="_blank">';
+           output += '<li><a href="' + menuItem.link + '">';
         output += menuItem.labno + ' - ' + menuItem.title;
         output += '</a></li>';
       });
