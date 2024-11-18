@@ -47,6 +47,18 @@
          "title": "JS/JSON/AJAX",
          "link": "labs/lab08/lab08.html",
          "description": ""
+      },
+      {
+         "labno": "Lab 9",
+         "title": "Databases and SQL",
+         "link": "labs/lab09/lab09.html",
+         "description": ""
+      },
+      {
+         "labno": "Lab 10",
+         "title": "Production Servers",
+         "link": "labs/lab10/lab10.html",
+         "description": ""
       }
    ]
 }
