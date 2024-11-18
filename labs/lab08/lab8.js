@@ -9,7 +9,11 @@ $(document).ready(function() {
            output += '<li><a href="' + menuItem.link + '">';
         output += menuItem.labno + ' - ' + menuItem.title;
         output += '</a></li>';
+        output += "</ul>";
+        output += '<footer>Contact: johnsj27@rpi.edu</footer>'
+      
       });
+      $('#dynamic').html(output);
       output += "</ul>";
       output += '<footer>Contact: johnsj27@rpi.edu</footer>'
       $('#dynamic').html(output)
