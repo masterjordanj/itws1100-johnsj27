@@ -3,49 +3,49 @@
       {
          "labno": "Lab 1",
          "title": "Azure",
-         "link": "/labs/lab01/lab01.html",
+         "link": "labs/lab01/lab01.html",
          "description": ""
       },
       {
          "labno": "Lab 2",
          "title": "Resume",
-         "link": "/labs/lab02/lab02.html",
+         "link": "labs/lab02/lab02.html",
          "description": ""
       },
       {
          "labno": "Lab 3",
          "title": "Website",
-         "link": "/labs/lab03/lab03.html",
+         "link": "labs/lab03/lab03.html",
          "description": ""
       },
       {
          "labno": "Lab 4",
          "title": "RSS/ATOM",
-         "link": "/labs/lab04/lab04.html",
+         "link": "labs/lab04/lab04.html",
          "description": ""
       },
       {
          "labno": "Lab 5",
          "title": "Forms",
-         "link": "/labs/lab05/lab05.html",
+         "link": "labs/lab05/lab05.html",
          "description": ""
       },
       {
          "labno": "Lab 6",
          "title": "jQuery",
-         "link": "/labs/lab06/lab06.html",
+         "link": "labs/lab06/lab06.html",
          "description": ""
       },
       {
          "labno": "Lab 7",
          "title": "Group",
-         "link": "/labs/lab07/lab07.html",
+         "link": "labs/lab07/lab07.html",
          "description": ""
       },
       {
          "labno": "Lab 8",
          "title": "JS/JSON/AJAX",
-         "link": "/labs/lab08/lab08.html",
+         "link": "labs/lab08/lab08.html",
          "description": ""
       }
    ]

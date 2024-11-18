@@ -1,7 +1,7 @@
 $(document).ready(function() {
     $.ajax({
         type: "GET",
-        url: "/resources/projects.json",
+        url: "resources/projects.json",
         dataType: "json",
         success: function(responseData, status){
          var output = "<ul>";  
@@ -14,6 +14,9 @@ $(document).ready(function() {
       
       });
       $('#dynamic').html(output);
+      output += "</ul>";
+      output += '<footer>Contact: johnsj27@rpi.edu</footer>'
+      $('#dynamic').html(output)
     }, error: function(msg) {
                   // there was a problem
       alert("There was a problem: " + msg.status + " " + msg.statusText);
