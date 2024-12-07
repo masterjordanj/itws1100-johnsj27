@@ -3,61 +3,61 @@
       {
          "labno": "Lab 1",
          "title": "Azure",
-         "link": "labs/lab01/lab01.html",
+         "link": "lab01/",
          "description": ""
       },
       {
          "labno": "Lab 2",
          "title": "Resume",
-         "link": "labs/lab02/lab02.html",
+         "link": "lab02/",
          "description": ""
       },
       {
          "labno": "Lab 3",
          "title": "Website",
-         "link": "labs/lab03/lab03.html",
+         "link": "lab03/",
          "description": ""
       },
       {
          "labno": "Lab 4",
          "title": "RSS/ATOM",
-         "link": "labs/lab04/lab04.html",
+         "link": "lab04/",
          "description": ""
       },
       {
          "labno": "Lab 5",
          "title": "Forms",
-         "link": "labs/lab05/lab05.html",
+         "link": "lab05/",
          "description": ""
       },
       {
          "labno": "Lab 6",
          "title": "jQuery",
-         "link": "labs/lab06/lab06.html",
+         "link": "lab06/",
          "description": ""
       },
       {
          "labno": "Lab 7",
          "title": "Group",
-         "link": "labs/lab07/lab07.html",
+         "link": "lab07/",
          "description": ""
       },
       {
          "labno": "Lab 8",
          "title": "JS/JSON/AJAX",
-         "link": "labs/lab08/lab08.html",
+         "link": "lab08/",
          "description": ""
       },
       {
          "labno": "Lab 9",
          "title": "Databases and SQL",
-         "link": "labs/lab09/lab09.html",
+         "link": "lab09/",
          "description": ""
       },
       {
          "labno": "Lab 10",
          "title": "Production Servers",
-         "link": "labs/lab10/lab10.html",
+         "link": "lab10/",
          "description": ""
       }
    ]

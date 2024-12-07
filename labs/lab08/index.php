@@ -1,22 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-   <meta charset="UTF-8">
+<?php include('../../includes/codeheader.php'); ?>
    <link rel="stylesheet" href="../../style.css" type="text/css">
    <title>Lab 8</title>
 </head>
 
 <body>
 
-    <div id="name">
-        <p>Jordan Johnson</p>
-    </div>
     
-    <div id="header">
-        <a href="../../index.html">Home</a>
-        <a href="../../projects.html">Projects</a>
-    </div>
+    <?php include('../../includes/header.php'); ?>
 
     <div id="labExp">
         <p>This lab was to experiment with javascript, json, and ajax </p>
@@ -24,9 +14,6 @@
         <p><a href="../../resources/projects.json">Projects JSON</a></p>
         
     </div>
-    
-    <footer>Contact: johnsj27@rpi.edu</footer>
-
 </body>
 
-</html>
+<?php include('../../includes/footer.php'); ?>

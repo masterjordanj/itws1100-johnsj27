@@ -1,22 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-   <meta charset="UTF-8">
+<?php include('../../includes/codeheader.php'); ?>
    <link rel="stylesheet" href="../../style.css" type="text/css">
    <title>Lab 5</title>
 </head>
 
 <body>
 
-    <div id="name">
-        <p>Jordan Johnson</p>
-    </div>
-    
-    <div id="header">
-        <a href="../../index.html">Home</a>
-        <a href="../../projects.html">Projects</a>
-    </div>
+ 
+    <?php include('../../includes/header.php'); ?>
 
     <div id="labExp">
         <p>This lab created some forms</p>
@@ -25,9 +15,6 @@
         <a href="lab5.css">Link to css</a>
         
     </div>
-    
-    <footer>Contact: johnsj27@rpi.edu</footer>
-
 </body>
 
-</html>
+<?php include('../../includes/footer.php'); ?>
