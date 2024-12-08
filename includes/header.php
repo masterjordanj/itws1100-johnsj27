@@ -5,7 +5,7 @@
 <div id="header">
   <ul> 
     <li> <a href="/">Home</a> </li>
-    <li> <a href="/labs/">Labs</a> </li>
-    <li> <a href="/projects/">Projects</a> </li>
+    <li> <a href="/iit/labs/">Labs</a> </li>
+    <li> <a href="/iit/projects/">Projects</a> </li>
   </ul>
 </div>
