@@ -14,13 +14,16 @@ $stmt->fetch();
 if ($found){
     $user = $result->fetch_assoc();
     $_SESSION['user'] = $user['username'];
+    $_SESSION['name'] = $user['name'];
     $_SESSION['pswd'] = $user['password'];
     $_SESSION['admin'] = $user['admin'];
 
-    header("Location: ../");
+    header("Location: ../index.php");
+    exit();
 } else {
   echo "<p>Error: Invalid User ID or Password</p>";
-  header("Location: ../");
+  header("Location: ../index.php");
+  exit();
 }
 
 
