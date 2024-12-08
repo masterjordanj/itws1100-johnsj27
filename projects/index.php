@@ -4,5 +4,8 @@
 </head>
 <body>
   <?php include('../includes/header.php'); ?>
+  <div id="dynamic">
+    <p><a href="../../grp/">Project 1 - Group Project</a></p>
+  </div>
 </body>
 <?php include('../includes/footer.php'); ?>
